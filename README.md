@@ -135,13 +135,15 @@ IEEE Transaction on Machine Learning in Communications and Networking:
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rojadandu123&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rojadandu123&show_icons=true&theme=tokyonight" />
+</p>
 
 
 
 ## Connect With Me
 
-📧 Email: [rojadandu2004@gmail.com](mailto:danduroja2004@gmail.com)
+📧 Email: [danduroja2004@gmail.com](mailto:danduroja2004@gmail.com)
 
 💼 LinkedIn:
 https://www.linkedin.com/in/roja-dandu-0b782229a/
