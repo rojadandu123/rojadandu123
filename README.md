@@ -1,158 +1,118 @@
-# Hi 👋, I'm Roja Dandu
+# Hi, I'm Roja Dandu 👋
 
-### Java Full Stack Developer | Software Engineering Enthusiast
+### Software Engineer | Java Full Stack Developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rojadandu123&label=Profile%20Views&color=blue&style=for-the-badge" alt="views"/>
-</p>
-
-## 👩‍💻 About Me
-
-```java
-public class RojaDandu {
-
-    String role = "Aspiring Software Engineer";
-
-    String[] skills = {
-        "Java",
-        "Spring Boot",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "SQL",
-        "Git",
-        "GitHub"
-    };
-
-    String[] interests = {
-        "Backend Development",
-        "Full Stack Development",
-        "Software Engineering"
-    };
-}
-```
-
-* 🎓 B.Tech Computer Science Engineering
-* 🏫 R.V.R & J.C College of Engineering
-* 📈 CGPA: 8.86
-* 🌱 Currently learning Core Java , Spring Boot & Full Stack Development
-* 💼 Looking for Software Engineer and Java Developer opportunities
-* 🚀 Passionate about problem solving and building scalable applications
+Motivated Computer Science undergraduate with strong foundations in Java, Data Structures, Algorithms, and Full Stack Development. Passionate about building scalable applications, solving real-world problems, and continuously learning modern technologies.
 
 ---
 
-## 🛠️ Technical Skills
+## 🎓 Education
 
-### Languages
+**B.Tech in Computer Science Engineering**  
+R.V.R & J.C College of Engineering  
+CGPA: 8.86
 
-* Java
-* C
-* Python
+---
 
-### Core Concepts
+## 💻 Technical Skills
 
-* Object-Oriented Programming (OOP)
-* Data Structures
-* Algorithms
-* Problem Solving
+**Programming Languages**
+- Java
+- Python
+- C
 
-### Web Technologies
+**Web Technologies**
+- HTML
+- CSS
+- JavaScript
 
-* HTML
-* CSS
-* JavaScript
+**Frameworks**
+- Spring Boot
+- Maven
 
-### Frameworks
+**Databases**
+- MySQL
+- SQL
 
-* Spring Boot
+**Tools & Platforms**
+- Git
+- GitHub
+- VS Code
+- Android Studio
 
-### Database
-
-* SQL
-* MySQL
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Android Studio
+**Core Concepts**
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Problem Solving
+- Software Development
 
 ---
 
 ## 🚀 Projects
 
-### 🏦 Banking System Console
+### Banking System Console
+Java-based banking application implementing OOP concepts and Collections Framework.
 
-A Java-based banking application implementing OOP concepts and Collections Framework.
+**Key Features**
+- Account Management
+- Deposit & Withdrawal Operations
+- Balance Enquiry
+- Exception Handling
 
-#### Features
-
-* Account Creation
-* Deposit
-* Withdrawal
-* Balance Enquiry
-* Exception Handling
-
-🔗 Repository:
+🔗 Repository:  
 https://github.com/rojadandu123/Banking-System-Console
 
----
+### Currency Converter
+Full-stack application developed using Spring Boot and modern web technologies.
 
-### 💱 Currency Converter
+**Key Features**
+- Real-time Currency Conversion
+- REST API Integration
+- Responsive User Interface
+- Backend Data Processing
 
-Full-stack currency converter built using Java Spring Boot and modern web technologies.
-
-#### Features
-
-* Currency Conversion
-* REST APIs
-* Responsive User Interface
-* Backend Integration
-
-🔗 Repository:
+🔗 Repository:  
 https://github.com/rojadandu123/Currency-Converter
 
 ---
 
 ## 📜 Certifications
 
-* AI-ML Virtual Internship – AICTE (Google for Developers)
-* Java Full Stack Virtual Internship – EduSkills (AICTE)
-* Google Cloud Career Launchpad – Generative AI Leader Track
-* Palo Alto Cybersecurity Virtual Internship
+- AI-ML Virtual Internship – AICTE & Google for Developers
+- Java Full Stack Virtual Internship – EduSkills & AICTE
+- Google Cloud Career Launchpad – Generative AI Leader Track
+- Palo Alto Cybersecurity Virtual Internship
 
 ---
 
 ## 📚 Research
 
-IEEE Transaction on Machine Learning in Communications and Networking:
+**IEEE Transaction on Machine Learning in Communications and Networking**
 
-"A Deeper Look on Explanation Methods for Deep Learning Models on Raw-Based Traffic of DDoS Attacks"
+*"A Deeper Look on Explanation Methods for Deep Learning Models on Raw-Based Traffic of DDoS Attacks"*
 
 ---
 
-
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rojadandu123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rojadandu123&show_icons=true&theme=github_dark" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=github_dark" />
 </p>
 
+---
 
+## 🤝Connect With Me
 
-## Connect With Me
+📧 Email: danduroja2004@gmail.com
 
-📧 Email: [danduroja2004@gmail.com](mailto:danduroja2004@gmail.com)
-
-💼 LinkedIn:
+💼 LinkedIn:  
 https://www.linkedin.com/in/roja-dandu-0b782229a/
 
-💻 GitHub:
+💻 GitHub:  
 https://github.com/rojadandu123
 
 ---
-
