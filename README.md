@@ -62,7 +62,7 @@ https://github.com/rojadandu123/Currency-Converter
 ## 🏆 Licenses & Certifications
 
 * AWS Academy Graduate – AWS Academy Cloud Foundations
-  🔗 https://www.credly.com/users/roja-dandu
+  🔗 [https://www.credly.com/users/roja-dandu](https://www.credly.com/badges/4bd3f2b7-d0c1-432f-b0a4-b2bf8d0fc41d/public_url)
 
 * AI-ML Virtual Internship – Google for Developers
 
