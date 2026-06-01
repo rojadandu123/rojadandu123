@@ -59,14 +59,25 @@ https://github.com/rojadandu123/Currency-Converter
 
 ---
 
-## 📜 Certifications
+```md id="sx1zc9"
+---
 
-* AI-ML Virtual Internship – Google for Developers
-* Java Full Stack Virtual Internship
-* Google Cloud Career Launchpad – Generative AI
-* Palo Alto Cybersecurity Virtual Internship
+## 🏆 Licenses & Certifications
+
+- AWS Academy Graduate – AWS Academy Cloud Foundations  
+  🔗 https://www.credly.com/users/roja-dandu
+
+- AI-ML Virtual Internship – Google for Developers
+
+- Java Full Stack Virtual Internship – EduSkills
+
+- Google Cloud Career Launchpad – Generative AI Leader Track
+
+- Palo Alto Cybersecurity Virtual Internship
 
 ---
+```
+
 
 ## 📊 GitHub Statistics
 
