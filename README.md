@@ -59,25 +59,20 @@ https://github.com/rojadandu123/Currency-Converter
 
 ---
 
-```md id="sx1zc9"
----
-
 ## 🏆 Licenses & Certifications
 
-- AWS Academy Graduate – AWS Academy Cloud Foundations  
+* AWS Academy Graduate – AWS Academy Cloud Foundations
   🔗 https://www.credly.com/users/roja-dandu
 
-- AI-ML Virtual Internship – Google for Developers
+* AI-ML Virtual Internship – Google for Developers
 
-- Java Full Stack Virtual Internship – EduSkills
+* Java Full Stack Virtual Internship – EduSkills
 
-- Google Cloud Career Launchpad – Generative AI Leader Track
+* Google Cloud Career Launchpad – Generative AI Leader Track
 
-- Palo Alto Cybersecurity Virtual Internship
+* Palo Alto Cybersecurity Virtual Internship
 
 ---
-```
-
 
 ## 📊 GitHub Statistics
 
@@ -104,4 +99,4 @@ https://github.com/rojadandu123
 
 ---
 
-⭐ **Open to Software Engineer & Java Developer Opportunities**
+⭐ **Open to Software Engineer, Java Developer, and Full Stack Developer Opportunities**
