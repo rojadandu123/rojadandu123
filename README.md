@@ -90,7 +90,7 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rojadandu123&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=rojadandu123&theme=tokyonight&hide_border=true"/>
 
 </div>
 
