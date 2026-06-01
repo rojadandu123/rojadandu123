@@ -1,3 +1,4 @@
+```md
 # Hi 👋, I'm Roja Dandu
 
 ### Java Full Stack Developer | Software Engineer
@@ -8,12 +9,12 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 
 ## 🚀 About Me
 
-* 🎓 B.Tech in Computer Science Engineering
-* 🏫 R.V.R & J.C College of Engineering
-* 📈 CGPA: **8.86**
-* 🌱 Currently learning **Spring Boot** & **Full Stack Development**
-* 💻 Interested in **Software Engineering** and **Backend Development**
-* 🚀 Passionate about **Problem Solving** and **Building Real-World Applications**
+- 🎓 B.Tech in Computer Science Engineering
+- 🏫 R.V.R & J.C College of Engineering
+- 📈 CGPA: **8.86**
+- 🌱 Currently learning **Spring Boot** & **Full Stack Development**
+- 💻 Interested in **Software Engineering** and **Backend Development**
+- 🚀 Passionate about **Problem Solving** and **Building Real-World Applications**
 
 ---
 
@@ -39,14 +40,14 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 
 Java-based banking application implementing OOP concepts and Collections Framework.
 
-🔗 Repository:
+🔗 Repository:  
 https://github.com/rojadandu123/Banking-System-Console
 
 ### 💱 Currency Converter
 
 Full-stack application developed using Spring Boot and REST APIs.
 
-🔗 Repository:
+🔗 Repository:  
 https://github.com/rojadandu123/Currency-Converter
 
 ---
@@ -59,26 +60,21 @@ https://github.com/rojadandu123/Currency-Converter
 
 ---
 
-```md
 ## 🏆 Licenses & Certifications
 
-- AWS Academy Graduate – AWS Academy Cloud Foundations  
-  🔗 https://www.credly.com/badges/4bd3f2b7-d0c1-432f-b0a4-b2bf8d0fc41d/public_url
+- 🟢 AWS Academy Cloud Foundations ([View Credential](https://www.credly.com/badges/4bd3f2b7-d0c1-432f-b0a4-b2bf8d0fc41d/public_url))
 
-- Prompt Design in Vertex AI Skill Badge – Google Cloud  
-  🔗 https://www.credly.com/badges/cc47c350-049c-4307-a492-be510f12a1fe/public_url
+- 🟢 Prompt Design in Vertex AI Skill Badge ([View Credential](https://www.credly.com/badges/cc47c350-049c-4307-a492-be510f12a1fe/public_url))
 
-- AI-ML Virtual Internship – Google for Developers
+- 🟢 AI-ML Virtual Internship – Google for Developers
 
-- Java Full Stack Virtual Internship – EduSkills
+- 🟢 Java Full Stack Virtual Internship – EduSkills
 
-- Google Cloud Career Launchpad – Generative AI Leader Track
+- 🟢 Google Cloud Career Launchpad – Generative AI Leader Track
 
-- Palo Alto Cybersecurity Virtual Internship
+- 🟢 Palo Alto Cybersecurity Virtual Internship
 
 ---
-```
-
 
 ## 📊 GitHub Statistics
 
@@ -94,15 +90,15 @@ https://github.com/rojadandu123/Currency-Converter
 
 ## 🤝 Connect With Me
 
-📧 **Email:**
+📧 **Email:**  
 [danduroja2004@gmail.com](mailto:danduroja2004@gmail.com)
 
-💼 **LinkedIn:**
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/roja-dandu-0b782229a/
 
-💻 **GitHub:**
+💻 **GitHub:**  
 https://github.com/rojadandu123
 
 ---
 
-⭐ **Open to Software Engineer, Java Developer, and Full Stack Developer Opportunities**
+
