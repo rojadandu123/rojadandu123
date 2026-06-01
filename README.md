@@ -1,4 +1,3 @@
-```md
 # Hi 👋, I'm Roja Dandu
 
 ### Java Full Stack Developer | Software Engineer
@@ -101,4 +100,4 @@ https://github.com/rojadandu123
 
 ---
 
-
+⭐ **Open to Software Engineer, Java Developer, and Full Stack Developer Opportunities**
