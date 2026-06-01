@@ -137,11 +137,11 @@ IEEE Transaction on Machine Learning in Communications and Networking:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rojadandu123&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=github_dark)
+
 
 ## Connect With Me
 
-📧 Email: [rojadandu2004@gmail.com](mailto:rojadandu2004@gmail.com)
+📧 Email: [rojadandu2004@gmail.com](mailto:danduroja2004@gmail.com)
 
 💼 LinkedIn:
 https://www.linkedin.com/in/roja-dandu-0b782229a/
