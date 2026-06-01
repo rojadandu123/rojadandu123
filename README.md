@@ -1,81 +1,155 @@
-<h1 align="center">Hi 👋, I'm Roja Dandu</h1>
+# Hi 👋, I'm Roja Dandu
 
-<h3 align="center">Computer Science Engineering Student | Java Developer | Full-Stack Learner</h3>
+### Java Full Stack Developer | Software Engineering Enthusiast
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rojadandu123&label=Profile%20Views&color=blue&style=for-the-badge" alt="views"/>
+</p>
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Student at R.V.R & J.C College of Engineering
+```java
+public class RojaDandu {
 
-💻 Passionate about Software Development, Problem Solving, and Building Real-World Applications
+    String role = "Aspiring Software Engineer";
 
-☕ Skilled in Java, Data Structures, Object-Oriented Programming, and Web Technologies
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "SQL",
+        "Git",
+        "GitHub"
+    };
 
-🌱 Currently exploring Spring Boot, Full-Stack Development, Artificial Intelligence, and Cloud Technologies
+    String[] interests = {
+        "Backend Development",
+        "Full Stack Development",
+        "Software Engineering"
+    };
+}
+```
 
-🚀 Eager to learn emerging technologies and contribute to innovative projects
-
----
-
-## 🎓 Education
-
-📚 B.Tech – Computer Science Engineering (2023–2027)
-
-🏫 R.V.R & J.C College of Engineering, Guntur
-
-⭐ CGPA: 8.86
+* 🎓 B.Tech Computer Science Engineering
+* 🏫 R.V.R & J.C College of Engineering
+* 📈 CGPA: 8.86
+* 🌱 Currently learning Core Java , Spring Boot & Full Stack Development
+* 💼 Looking for Software Engineer and Java Developer opportunities
+* 🚀 Passionate about problem solving and building scalable applications
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming Languages:** Java, C
+### Languages
 
-**Core Concepts:** Object-Oriented Programming (OOP), Data Structures
+* Java
+* C
+* Python
 
-**Web Technologies:** HTML, CSS, JavaScript
+### Core Concepts
 
-**Frameworks:** Spring Boot
+* Object-Oriented Programming (OOP)
+* Data Structures
+* Algorithms
+* Problem Solving
 
-**Database:** SQL
+### Web Technologies
 
-**Tools & Platforms:** Git, GitHub, VS Code, Android Studio
+* HTML
+* CSS
+* JavaScript
 
-**AI & ML:** Machine Learning Fundamentals, Supervised Learning, Data Preprocessing, Model Evaluation
+### Frameworks
+
+* Spring Boot
+
+### Database
+
+* SQL
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Android Studio
 
 ---
 
 ## 🚀 Projects
 
 ### 🏦 Banking System Console
-Developed a console-based banking application supporting account creation, deposits, withdrawals, and balance enquiries using Java and OOP concepts.
+
+A Java-based banking application implementing OOP concepts and Collections Framework.
+
+#### Features
+
+* Account Creation
+* Deposit
+* Withdrawal
+* Balance Enquiry
+* Exception Handling
+
+🔗 Repository:
+https://github.com/rojadandu123/Banking-System-Console
+
+---
 
 ### 💱 Currency Converter
-Built a full-stack currency converter application with a responsive web interface and REST API integration using Spring Boot, HTML, CSS, and JavaScript.
+
+Full-stack currency converter built using Java Spring Boot and modern web technologies.
+
+#### Features
+
+* Currency Conversion
+* REST APIs
+* Responsive User Interface
+* Backend Integration
+
+🔗 Repository:
+https://github.com/rojadandu123/Currency-Converter
 
 ---
 
-## 🏆 Certifications
+## 📜 Certifications
 
-🏅 AI-ML Virtual Course (AICTE – Google for Developers)
+* AI-ML Virtual Internship – AICTE (Google for Developers)
+* Java Full Stack Virtual Internship – EduSkills (AICTE)
+* Google Cloud Career Launchpad – Generative AI Leader Track
+* Palo Alto Cybersecurity Virtual Internship
 
-🏅 Java Full Stack Virtual Course (EduSkills – AICTE)
+---
 
-🏅 Google Cloud Career Launchpad – Generative AI Leader Track
+## 📚 Research
 
-🏅 Palo Alto Networks Cybersecurity Education Program Certifications
+IEEE Transaction on Machine Learning in Communications and Networking:
 
+"A Deeper Look on Explanation Methods for Deep Learning Models on Raw-Based Traffic of DDoS Attacks"
 
 ---
 
 
-## 🌐 Connect With Me
+## 📈 GitHub Stats
 
-💼 LinkedIn: www.linkedin.com/in/roja-dandu-0b782229a
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rojadandu123\&show_icons=true\&theme=github_dark)
 
-🐙 GitHub: https://github.com/rojadandu123
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rojadandu123\&layout=compact\&theme=github_dark)
 
 ---
 
-⭐ “Passionate about learning, building impactful software, and growing as a technology professional.”
+## Connect With Me
+
+📧 Email: [rojadandu2004@gmail.com](mailto:rojadandu2004@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/roja-dandu-0b782229a/
+
+💻 GitHub:
+https://github.com/rojadandu123
+
+---
+
