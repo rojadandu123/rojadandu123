@@ -1,71 +1,90 @@
-# Hi, I'm Roja Dandu 👋
+```md
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Roja%20Dandu&fontSize=45&fontColor=ffffff" />
+</p>
 
-### Software Engineer | Java Full Stack Developer
+<h1 align="center">Hi 👋, I'm Roja Dandu</h1>
+<h3 align="center">Software Engineer | Java Full Stack Developer</h3>
 
-Motivated Computer Science undergraduate with strong foundations in Java, Data Structures, Algorithms, and Full Stack Development. Passionate about building scalable applications, solving real-world problems, and continuously learning modern technologies.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rojadandu123&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Full%20Stack-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Developer-darkblue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge" />
+</p>
 
 ---
 
-## 🎓 Education
+## 👨‍💻 About Me
 
-**B.Tech in Computer Science Engineering**  
-R.V.R & J.C College of Engineering  
-CGPA: 8.86
+Motivated Computer Science undergraduate with strong foundations in **Java, Data Structures & Algorithms, Spring Boot, and Full Stack Development**. Passionate about building scalable applications, solving real-world problems, and continuously learning modern technologies.
+
+- 🎓 B.Tech in Computer Science Engineering
+- 🏫 R.V.R & J.C College of Engineering
+- 📈 CGPA: **8.86**
+- 🌱 Currently learning **Spring Boot & Full Stack Development**
+- 💼 Seeking **Software Engineer / Java Developer Opportunities**
+- 🚀 Passionate about Problem Solving & Software Development
 
 ---
 
 ## 💻 Technical Skills
 
-**Programming Languages**
+### Programming Languages
 - Java
 - Python
 - C
 
-**Web Technologies**
+### Web Technologies
 - HTML
 - CSS
 - JavaScript
 
-**Frameworks**
+### Frameworks & Tools
 - Spring Boot
 - Maven
-
-**Databases**
-- MySQL
-- SQL
-
-**Tools & Platforms**
 - Git
 - GitHub
 - VS Code
 - Android Studio
 
-**Core Concepts**
-- Object-Oriented Programming
+### Databases
+- MySQL
+- SQL
+
+### Core Concepts
+- Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 - Problem Solving
-- Software Development
+- Software Engineering
 
 ---
 
 ## 🚀 Projects
 
-### Banking System Console
+### 🏦 Banking System Console
+
 Java-based banking application implementing OOP concepts and Collections Framework.
 
-**Key Features**
+**Features**
 - Account Management
-- Deposit & Withdrawal Operations
+- Deposit & Withdrawal
 - Balance Enquiry
 - Exception Handling
 
 🔗 Repository:  
 https://github.com/rojadandu123/Banking-System-Console
 
-### Currency Converter
+---
+
+### 💱 Currency Converter
+
 Full-stack application developed using Spring Boot and modern web technologies.
 
-**Key Features**
+**Features**
 - Real-time Currency Conversion
 - REST API Integration
 - Responsive User Interface
@@ -87,7 +106,7 @@ https://github.com/rojadandu123/Currency-Converter
 
 ## 📚 Research
 
-**IEEE Transaction on Machine Learning in Communications and Networking**
+### IEEE Transaction on Machine Learning in Communications and Networking
 
 *"A Deeper Look on Explanation Methods for Deep Learning Models on Raw-Based Traffic of DDoS Attacks"*
 
@@ -105,9 +124,10 @@ https://github.com/rojadandu123/Currency-Converter
 
 ---
 
-## 🤝Connect With Me
+## Connect With Me
 
-📧 Email: danduroja2004@gmail.com
+📧 Email:
+ **danduroja2004@gmail.com**
 
 💼 LinkedIn:  
 https://www.linkedin.com/in/roja-dandu-0b782229a/
@@ -116,3 +136,4 @@ https://www.linkedin.com/in/roja-dandu-0b782229a/
 https://github.com/rojadandu123
 
 ---
+
