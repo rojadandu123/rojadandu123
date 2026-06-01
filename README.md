@@ -96,11 +96,11 @@ https://github.com/rojadandu123/Currency-Converter
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rojadandu123&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rojadandu123&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=github_dark" />
 </p>
 
 ---
