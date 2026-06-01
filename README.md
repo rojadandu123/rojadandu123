@@ -82,17 +82,13 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Profile Summary
 
-<div align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rojadandu123&theme=github_dark)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rojadandu123&show_icons=true&theme=tokyonight&hide_border=true"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rojadandu123&theme=github_dark)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=rojadandu123&theme=tokyonight&hide_border=true"/>
-
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rojadandu123&theme=github_dark)
 
 ---
 
