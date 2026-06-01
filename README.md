@@ -33,71 +33,91 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 
 ---
 
-## 💼 Projects
+## 🚀 Featured Projects
 
 ### 🏦 Banking System Console
 
-Java-based banking application implementing OOP concepts and Collections Framework.
+> A Java-based banking application designed using Object-Oriented Programming principles and the Collections Framework to simulate real-world banking operations.
 
-🔗 Repository:  
-https://github.com/rojadandu123/Banking-System-Console
+🔹 Features:
+
+* Account Creation & Management
+* Deposit and Withdrawal Operations
+* Balance Inquiry
+* Secure Transaction Handling
+
+🛠️ **Tech Stack:** Java • OOP • Collections Framework
+
+🔗 **Repository:**
+[View Project](https://github.com/rojadandu123/Banking-System-Console)
+
+---
 
 ### 💱 Currency Converter
 
-Full-stack application developed using Spring Boot and REST APIs.
+> A Full Stack application built using Spring Boot and REST APIs that provides real-time currency conversion functionality.
 
-🔗 Repository:  
-https://github.com/rojadandu123/Currency-Converter
+🔹 Features:
 
----
+* Real-Time Currency Conversion
+* REST API Integration
+* User-Friendly Interface
+* Fast and Accurate Exchange Calculations
 
-## 📚 Research
+🛠️ **Tech Stack:** Java • Spring Boot • REST APIs • MySQL
 
-**IEEE Transaction on Machine Learning in Communications and Networking**
+🔗 **Repository:**
+[View Project](https://github.com/rojadandu123/Currency-Converter)
 
-*"A Deeper Look on Explanation Methods for Deep Learning Models on Raw-Based Traffic of DDoS Attacks"*
 
----
+## 🌐 Connect With Me
 
-## 🏆 Licenses & Certifications
+<div align="center">
 
-- 🟢 AWS Academy Cloud Foundations ([View Credential](https://www.credly.com/badges/4bd3f2b7-d0c1-432f-b0a4-b2bf8d0fc41d/public_url))
+[![Email](https://img.shields.io/badge/Email-danduroja2004%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:danduroja2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roja%20Dandu-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/roja-dandu-0b782229a/)
+[![GitHub](https://img.shields.io/badge/GitHub-rojadandu123-black?style=for-the-badge\&logo=github)](https://github.com/rojadandu123)
 
-- 🟢 Prompt Design in Vertex AI Skill Badge ([View Credential](https://www.credly.com/badges/cc47c350-049c-4307-a492-be510f12a1fe/public_url))
-
-- 🟢 AI-ML Virtual Internship – Google for Developers
-
-- 🟢 Java Full Stack Virtual Internship – EduSkills
-
-- 🟢 Google Cloud Career Launchpad – Generative AI Leader Track
-
-- 🟢 Palo Alto Cybersecurity Virtual Internship
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rojadandu123&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rojadandu123&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rojadandu123&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Roja's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rojadandu123\&theme=tokyo-night)](https://github.com/rojadandu123)
+
+---
+
+## 🚀 Profile Views
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rojadandu123&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=github_dark" />
+  <img src="https://komarev.com/ghpvc/?username=rojadandu123&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
-
-📧 **Email:**  
-[danduroja2004@gmail.com](mailto:danduroja2004@gmail.com)
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/roja-dandu-0b782229a/
-
-💻 **GitHub:**  
-https://github.com/rojadandu123
-
----
-
-⭐ **Open to Software Engineer, Java Developer, and Full Stack Developer Opportunities**
+⭐ **Open to Software Engineer, Java Developer, Backend Developer, and Full Stack Developer Opportunities**
