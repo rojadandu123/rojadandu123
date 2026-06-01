@@ -136,7 +136,10 @@ IEEE Transaction on Machine Learning in Communications and Networking:
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rojadandu123&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rojadandu123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
