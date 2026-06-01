@@ -1,139 +1,105 @@
 ```md
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Roja%20Dandu&fontSize=45&fontColor=ffffff" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Roja Dandu</h1>
-<h3 align="center">Software Engineer | Java Full Stack Developer</h3>
+
+<h3 align="center">Java Full Stack Developer | Software Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rojadandu123&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  Passionate about building scalable applications with Java, Spring Boot, and modern web technologies.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Full%20Stack-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-Developer-darkblue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge" />
+  <a href="https://github.com/rojadandu123">
+    <img src="https://komarev.com/ghpvc/?username=rojadandu123&label=Profile+Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-Motivated Computer Science undergraduate with strong foundations in **Java, Data Structures & Algorithms, Spring Boot, and Full Stack Development**. Passionate about building scalable applications, solving real-world problems, and continuously learning modern technologies.
+## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science Engineering
-- 🏫 R.V.R & J.C College of Engineering
-- 📈 CGPA: **8.86**
-- 🌱 Currently learning **Spring Boot & Full Stack Development**
-- 💼 Seeking **Software Engineer / Java Developer Opportunities**
-- 🚀 Passionate about Problem Solving & Software Development
+- 📈 CGPA: 8.86
+- 🌱 Currently learning Spring Boot & Full Stack Development
+- 💻 Interested in Software Engineering and Backend Development
+- 🚀 Passionate about Problem Solving and Building Real-World Applications
 
 ---
 
-## 💻 Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
-- Java
-- Python
-- C
+### Languages
+`Java` `Python` `C`
 
-### Web Technologies
-- HTML
-- CSS
-- JavaScript
+### Frontend
+`HTML` `CSS` `JavaScript`
 
-### Frameworks & Tools
-- Spring Boot
-- Maven
-- Git
-- GitHub
-- VS Code
-- Android Studio
+### Backend
+`Spring Boot` `REST APIs` `Maven`
 
-### Databases
-- MySQL
-- SQL
+### Database
+`MySQL` `SQL`
+
+### Tools
+`Git` `GitHub` `VS Code` `Android Studio`
 
 ### Core Concepts
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Problem Solving
-- Software Engineering
+`OOP` `Data Structures` `Algorithms` `Problem Solving`
 
 ---
 
-## 🚀 Projects
+## 💼 Featured Projects
 
 ### 🏦 Banking System Console
-
 Java-based banking application implementing OOP concepts and Collections Framework.
 
-**Features**
-- Account Management
-- Deposit & Withdrawal
-- Balance Enquiry
-- Exception Handling
-
-🔗 Repository:  
-https://github.com/rojadandu123/Banking-System-Console
-
----
+🔗 https://github.com/rojadandu123/Banking-System-Console
 
 ### 💱 Currency Converter
+Full-stack application developed using Spring Boot and REST APIs.
 
-Full-stack application developed using Spring Boot and modern web technologies.
-
-**Features**
-- Real-time Currency Conversion
-- REST API Integration
-- Responsive User Interface
-- Backend Data Processing
-
-🔗 Repository:  
-https://github.com/rojadandu123/Currency-Converter
-
----
-
-## 📜 Certifications
-
-- AI-ML Virtual Internship – AICTE & Google for Developers
-- Java Full Stack Virtual Internship – EduSkills & AICTE
-- Google Cloud Career Launchpad – Generative AI Leader Track
-- Palo Alto Cybersecurity Virtual Internship
+🔗 https://github.com/rojadandu123/Currency-Converter
 
 ---
 
 ## 📚 Research
 
-### IEEE Transaction on Machine Learning in Communications and Networking
+**IEEE Transaction on Machine Learning in Communications and Networking**
 
-*"A Deeper Look on Explanation Methods for Deep Learning Models on Raw-Based Traffic of DDoS Attacks"*
+*A Deeper Look on Explanation Methods for Deep Learning Models on Raw-Based Traffic of DDoS Attacks*
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rojadandu123&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rojadandu123&show_icons=true&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
-## Connect With Me
+## 🏆 Certifications
 
-📧 Email:
- **danduroja2004@gmail.com**
-
-💼 LinkedIn:  
-https://www.linkedin.com/in/roja-dandu-0b782229a/
-
-💻 GitHub:  
-https://github.com/rojadandu123
+- AI-ML Virtual Internship – Google for Developers
+- Java Full Stack Virtual Internship
+- Google Cloud Career Launchpad
+- Palo Alto Cybersecurity Virtual Internship
 
 ---
 
+## 🤝 Connect With Me
+
+📧 **Email:** danduroja2004@gmail.com
+
+💼 **LinkedIn:**  
+www.linkedin.com/in/roja-dandu-0b782229a
+
+💻 **GitHub:**  
+github.com/rojadandu123
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+```
