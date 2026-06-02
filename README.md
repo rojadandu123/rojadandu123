@@ -69,6 +69,14 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 🔗 **Repository:**
 [View Project](https://github.com/rojadandu123/Currency-Converter)
 
+## 🏆 Certifications
+
+* 🎓 **AI-ML Virtual Internship** — Google for Developers × AICTE *(2024)*
+* 💻 **Java Full Stack Virtual Internship** — EduSkills × AICTE *(2025)*
+* ☁️ **Generative AI Leader Track** — Google Cloud Career Launchpad *(2025)*
+* 🛡️ **Palo Alto Cybersecurity Virtual Internship** — Palo Alto Networks *(2026)* | [Credential](https://certificate.eduskillsfoundation.org/verify/4177af8c9205e81dc001/4177af8c9205e81dc001)
+* ☁️ **AWS Academy Cloud Foundations** *(2026)* | [Credential](https://www.credly.com/badges/cc47c350-049c-4307-a492-be510f12a1fe/public_url)
+
 
 ## 🌐 Connect With Me
 
