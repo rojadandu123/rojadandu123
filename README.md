@@ -101,12 +101,11 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 ---
 
 
-## 📈 Contribution Graph
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rojadandu123&theme=github-dark" alt="GitHub Activity Graph"/>
+  <img src="https://streak-stats.demolab.com?user=rojadandu123&theme=github-dark" alt="GitHub Streak"/>
 </p>
----
 
 ## 🚀 Profile Views
 
