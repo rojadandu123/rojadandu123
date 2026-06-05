@@ -103,8 +103,9 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 
 ## 📈 Contribution Graph
 
-[![Roja's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rojadandu123\&theme=tokyo-night)](https://github.com/rojadandu123)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rojadandu123&theme=github-dark" alt="GitHub Activity Graph"/>
+</p>
 ---
 
 ## 🚀 Profile Views
