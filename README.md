@@ -33,18 +33,9 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 
 ---
 
-## 🚀 Featured Projects
-
 ### 🏦 Banking System Console
 
-> A Java-based banking application designed using Object-Oriented Programming principles and the Collections Framework to simulate real-world banking operations.
-
-🔹 Features:
-
-* Account Creation & Management
-* Deposit and Withdrawal Operations
-* Balance Inquiry
-* Secure Transaction Handling
+> Java-based banking application implementing core banking operations using OOP principles.
 
 🛠️ **Tech Stack:** Java • OOP • Collections Framework
 
@@ -55,19 +46,26 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 
 ### 💱 Currency Converter
 
-> A Full Stack application built using Spring Boot and REST APIs that provides real-time currency conversion functionality.
-
-🔹 Features:
-
-* Real-Time Currency Conversion
-* REST API Integration
-* User-Friendly Interface
-* Fast and Accurate Exchange Calculations
+> Full Stack application for real-time currency conversion using Spring Boot and REST APIs.
 
 🛠️ **Tech Stack:** Java • Spring Boot • REST APIs • MySQL
 
 🔗 **Repository:**
 [View Project](https://github.com/rojadandu123/Currency-Converter)
+
+---
+
+### 🌦 Weather Tracking Tool
+
+> Full Stack weather dashboard providing real-time weather updates and database integration.
+
+🛠️ **Tech Stack:** Java • Spring Boot • MySQL • HTML • CSS • JavaScript • WeatherAPI
+
+🔗 **Repository:**
+[View Project](https://github.com/rojadandu123/weather-tracking-tool)
+
+---
+
 
 ## 🏆 Certifications
 
