@@ -98,11 +98,13 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 
 ---
 
-
 ## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rojadandu123&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-</p>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rojadandu123&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ## 🚀 Profile Views
 
