@@ -105,7 +105,9 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 [![GitHub Streak](https://streak-stats.demolab.com?user=rojadandu123&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-## 🚀 Profile Views <p align="center"> <img src="https://komarev.com/ghpvc/?username=rojadandu123&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/> </p> ---
+## 🚀 Profile Views <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rojadandu123&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/>
+</p> 
 
 
 ⭐ **Open to Software Engineer, Java Developer, Backend Developer, and Full Stack Developer Opportunities**
