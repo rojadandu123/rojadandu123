@@ -111,4 +111,6 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
   <img src="https://komarev.com/ghpvc/?username=rojadandu123&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
 ---
+
+
 ⭐ **Open to Software Engineer, Java Developer, Backend Developer, and Full Stack Developer Opportunities**
