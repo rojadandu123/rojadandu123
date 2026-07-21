@@ -84,7 +84,6 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rojadandu123&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rojadandu123&theme=github_dark)
-
 ## 🔥 GitHub Streak
 
 <p align="center">
