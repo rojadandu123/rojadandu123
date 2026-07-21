@@ -76,16 +76,14 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 * 🛡️ **Palo Alto Cybersecurity Virtual Internship** — Palo Alto Networks *(2026)* | [Credential](https://certificate.eduskillsfoundation.org/verify/4177af8c9205e81dc001/4177af8c9205e81dc001)
 * ☁️ **AWS Academy Cloud Foundations** *(2026)* | [Credential](https://www.credly.com/badges/4bd3f2b7-d0c1-432f-b0a4-b2bf8d0fc41d/public_url)
 * 📊 **GenAI Powered Data Analytics Job Simulation** — Tata Group × Forage *(2026)* | [Certificate](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_698f38af319a6e482a3576c7_1780677474462_completion_certificate.pdf)
-
- ---
-
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rojadandu123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rojadandu123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -101,7 +99,7 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rojadandu123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rojadandu123&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" />
 </p>
 
 ---
@@ -111,15 +109,15 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 <p align="center">
 
 <a href="mailto:danduroja2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail" />
 </a>
 
 <a href="https://www.linkedin.com/in/roja-dandu-0b782229a/">
-<img src="https://img.shields.io/badge/LinkedIn-Roja_Dandu-blue?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Roja_Dandu-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://github.com/rojadandu123">
-<img src="https://img.shields.io/badge/GitHub-rojadandu123-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-rojadandu123-black?style=for-the-badge&logo=github" />
 </a>
 
 </p>
@@ -129,9 +127,13 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rojadandu123&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=rojadandu123&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+<div align="center">
+
+⭐ **Thanks for visiting my profile!** 🚀
+
+</div>
