@@ -79,15 +79,21 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 
  ---
 
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rojadandu123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rojadandu123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=rojadandu123&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rojadandu123&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -95,15 +101,7 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rojadandu123&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rojadandu123&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rojadandu123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -131,14 +129,9 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rojadandu123&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=rojadandu123&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-
-
-
-
-
-⭐ **Open to Software Engineer, Java Developer, Backend Developer, and Full Stack Developer Opportunities**
+⭐ **Thanks for visiting my profile!**
