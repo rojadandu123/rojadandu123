@@ -77,40 +77,68 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 * ☁️ **AWS Academy Cloud Foundations** *(2026)* | [Credential](https://www.credly.com/badges/4bd3f2b7-d0c1-432f-b0a4-b2bf8d0fc41d/public_url)
 * 📊 **GenAI Powered Data Analytics Job Simulation** — Tata Group × Forage *(2026)* | [Certificate](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_698f38af319a6e482a3576c7_1780677474462_completion_certificate.pdf)
 
-  ## 📊 GitHub Stats
+ ---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rojadandu123&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rojadandu123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rojadandu123&theme=github-dark&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=rojadandu123&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rojadandu123&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rojadandu123&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
-[![Email](https://img.shields.io/badge/Email-danduroja2004%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:danduroja2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roja%20Dandu-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/roja-dandu-0b782229a/)
-[![GitHub](https://img.shields.io/badge/GitHub-rojadandu123-black?style=for-the-badge\&logo=github)](https://github.com/rojadandu123)
+<a href="mailto:danduroja2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-</div>
+<a href="https://www.linkedin.com/in/roja-dandu-0b782229a/">
+<img src="https://img.shields.io/badge/LinkedIn-Roja_Dandu-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/rojadandu123">
+<img src="https://img.shields.io/badge/GitHub-rojadandu123-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
-![Uploading image.png…]()
-
-
-## 🚀 Profile Views 
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rojadandu123&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/>
-</p> 
+  <img src="https://komarev.com/ghpvc/?username=rojadandu123&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
+
+
+
+
 
 
 ⭐ **Open to Software Engineer, Java Developer, Backend Developer, and Full Stack Developer Opportunities**
