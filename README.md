@@ -67,6 +67,7 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 ---
 
 
+
 ## 🏆 Certifications
 
 * 🎓 **AI-ML Virtual Internship** — Google for Developers × AICTE *(2024)*
@@ -75,6 +76,20 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 * 🛡️ **Palo Alto Cybersecurity Virtual Internship** — Palo Alto Networks *(2026)* | [Credential](https://certificate.eduskillsfoundation.org/verify/4177af8c9205e81dc001/4177af8c9205e81dc001)
 * ☁️ **AWS Academy Cloud Foundations** *(2026)* | [Credential](https://www.credly.com/badges/4bd3f2b7-d0c1-432f-b0a4-b2bf8d0fc41d/public_url)
 * 📊 **GenAI Powered Data Analytics Job Simulation** — Tata Group × Forage *(2026)* | [Certificate](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_698f38af319a6e482a3576c7_1780677474462_completion_certificate.pdf)
+
+  ## 📊 GitHub Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rojadandu123&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rojadandu123&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rojadandu123&theme=github_dark)
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rojadandu123&theme=github-dark&hide_border=true" />
+</p>
 
 ## 🌐 Connect With Me
 
