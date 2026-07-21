@@ -90,18 +90,21 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 
 ## 📊 GitHub Profile Summary
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rojadandu123&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rojadandu123&theme=github_dark" width="100%" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rojadandu123&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rojadandu123&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rojadandu123&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rojadandu123&theme=github_dark" width="48%" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rojadandu123&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=rojadandu123&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🚀 Profile Views 
