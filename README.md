@@ -81,9 +81,8 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rojadandu123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rojadandu123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -101,7 +100,6 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rojadandu123&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
