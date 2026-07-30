@@ -81,8 +81,8 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rojadandu123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojadandu123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rojadandu123&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rojadandu123&theme=tokyonight" />
 </p>
 
 ---
@@ -90,17 +90,16 @@ Passionate about building scalable applications using Java, Spring Boot, and mod
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rojadandu123&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rojadandu123&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Profile Details
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rojadandu123&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rojadandu123&theme=tokyonight" />
 </p>
----
 
 ## 🌐 Connect With Me
 
